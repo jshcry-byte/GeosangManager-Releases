@@ -17,3 +17,11 @@ ZIP은 1.1.0 업데이터와의 호환용으로 함께 제공합니다. 1.1.0에
 사용자 DB·설정·인증정보는 기존 Windows 사용자 폴더에 유지됩니다. 배포 파일에 개인 데이터나 인증정보를 넣지 마세요.
 
 `update-windows-x64.json`은 앱의 버전·파일 크기·SHA-256 확인용 정보입니다. 앱은 공개 GitHub 다운로드에 사용자 인증정보를 전송하지 않습니다.
+
+## 사용자 매뉴얼
+
+- [PC 인증 자세히 따라하기](manuals/사용자매뉴얼.md#0-pc-인증-따라하기): 최초 등록·초대 코드·승인 수령·PC 교체·재신청·등록 해제를 실제 앱 캡처 13장과 함께 설명합니다.
+- [전체 사용자 매뉴얼](manuals/사용자매뉴얼.md): PC 인증과 기존 정령탐색 사용법입니다.
+- [오프라인 열람용 매뉴얼 ZIP](https://github.com/jshcry-byte/GeosangManager-Releases/releases/download/v1.1.1/GeosangManager-1.1.1-User-Manual.zip): 압축을 풀고 MD 파일과 images 폴더를 함께 보관하세요.
+
+캡처는 예시 이름과 합성 응답을 사용했으며 실제 사용자의 인증정보를 포함하지 않습니다.
