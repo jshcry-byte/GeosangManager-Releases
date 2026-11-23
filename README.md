@@ -4,7 +4,7 @@ Windows 64비트용 GeosangManager 실행 파일과 업데이트 정보를 배�
 
 ## 설치
 
-[최신 릴리즈](https://github.com/jshcry-byte/GeosangManager-Releases/releases/latest)에서 **GeosangManager-버전-Setup.exe**를 다운로드해 실행하세요. 1.1.1은 전체 설치본이므로 1.1.0을 먼저 설치할 필요가 없습니다. 기존 앱은 정상 종료한 뒤 설치하세요.
+[다운로드](https://github.com/jshcry-byte/GeosangManager-Releases/releases/latest)에서 **GeosangManager-버전-Setup.exe**를 다운로드해 실행하세요. 1.1.1은 전체 설치본이므로 1.1.0을 먼저 설치할 필요가 없습니다. 기존 앱은 정상 종료한 뒤 설치하세요.
 
 관리자 권한 없이 현재 사용자용 `%LOCALAPPDATA%\Programs\GeosangManager`에 설치하며 시작 메뉴·선택형 바탕화면 바로가기·Windows 프로그램 제거 기능을 제공합니다. 설치·제거 시 기존 사용자 DB·설정·인증정보는 삭제하지 않습니다. 설치 파일은 현재 코드 서명되지 않았습니다.
 
